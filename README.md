@@ -10,12 +10,11 @@
 
 - HTML5
 - CSS
+- JavaScript ES6
 - Sass
-- Bootstrap
-- Tailwind CSS (soon)
-- JavaScript
-- React JS (soon)
 - GitHub
+- React JS (soon)
+- Tailwind CSS (soon)
 
 ## My Favorite Quotes
 
