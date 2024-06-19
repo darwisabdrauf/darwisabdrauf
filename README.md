@@ -13,8 +13,9 @@
 - JavaScript ES6
 - Sass
 - GitHub
+- Tailwind CSS
 - React JS (soon)
-- Tailwind CSS (soon)
+
 
 ## My Favorite Quotes
 
